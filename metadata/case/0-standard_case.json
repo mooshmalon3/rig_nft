@@ -1,0 +1,21 @@
+{
+    "description": "Standard Case",
+    "name": "Basic_Case",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "form_factor",
+            "value": "1"
+        },
+        {
+            "trait_type": "air_flow",
+            "value": "1"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "E"
+        }
+    ]
+    
+
+}

@@ -1,0 +1,25 @@
+{
+    "description": "4 Core Processor",
+    "name": "intel_i5",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "Clock Speed",
+            "value": "3.0"
+        },
+        {
+            "trait_type": "Core Count",
+            "value": "4"
+        },
+        {
+            "trait_type": "Wattage",
+            "value": "100"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "D"
+        }
+    ]
+    
+
+}

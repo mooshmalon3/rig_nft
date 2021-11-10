@@ -1,0 +1,21 @@
+{
+    "description": "High Airflow Case",
+    "name": "High_Airflow_Case",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "form_factor",
+            "value": "3"
+        },
+        {
+            "trait_type": "air_flow",
+            "value": "3"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "A"
+        }
+    ]
+    
+
+}

@@ -1,0 +1,25 @@
+{
+    "description": "6 Core Processor",
+    "name": "amd_3600x",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "Clock Speed",
+            "value": "3.2"
+        },
+        {
+            "trait_type": "Core Count",
+            "value": "6"
+        },
+        {
+            "trait_type": "Wattage",
+            "value": "65"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "D"
+        }
+    ]
+    
+
+}

@@ -1,0 +1,25 @@
+{
+    "description": "16 Core Processor",
+    "name": "intel_i9_12900K",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "Clock Speed",
+            "value": "3.2"
+        },
+        {
+            "trait_type": "Core Count",
+            "value": "16"
+        },
+        {
+            "trait_type": "Wattage",
+            "value": "130"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "A"
+        }
+    ]
+    
+
+}

@@ -1,0 +1,25 @@
+{
+    "description": "4 Core Processor",
+    "name": "amd_3200",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "Clock Speed",
+            "value": "2.8"
+        },
+        {
+            "trait_type": "Core Count",
+            "value": "4"
+        },
+        {
+            "trait_type": "Wattage",
+            "value": "60"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "E"
+        }
+    ]
+    
+
+}

@@ -1,0 +1,21 @@
+{
+    "description": "RAM",
+    "name": "8 GB Stick",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "Clock Speed",
+            "value": "2666"
+        },
+        {
+            "trait_type": "Storage_Space",
+            "value": "8"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "C"
+        }
+    ]
+    
+
+}

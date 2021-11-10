@@ -1,0 +1,25 @@
+{
+    "description": "12 Core Processor",
+    "name": "amd_5900x",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "Clock Speed",
+            "value": "3.8"
+        },
+        {
+            "trait_type": "Core Count",
+            "value": "12"
+        },
+        {
+            "trait_type": "Wattage",
+            "value": "105"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "A"
+        }
+    ]
+    
+
+}

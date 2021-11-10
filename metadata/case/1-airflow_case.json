@@ -1,0 +1,21 @@
+{
+    "description": "Airflow Case",
+    "name": "Airflow_Case",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "form_factor",
+            "value": "2"
+        },
+        {
+            "trait_type": "air_flow",
+            "value": "2"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "C"
+        }
+    ]
+    
+
+}

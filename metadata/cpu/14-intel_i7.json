@@ -1,0 +1,25 @@
+{
+    "description": "8 Core Processor",
+    "name": "intel_i7_11700k",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "Clock Speed",
+            "value": "3.6"
+        },
+        {
+            "trait_type": "Core Count",
+            "value": "8"
+        },
+        {
+            "trait_type": "Wattage",
+            "value": "125"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "B"
+        }
+    ]
+    
+
+}

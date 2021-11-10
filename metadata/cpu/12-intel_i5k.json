@@ -1,0 +1,25 @@
+{
+    "description": "6 Core Processor",
+    "name": "intel_i5_11600k",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "Clock Speed",
+            "value": "3.2"
+        },
+        {
+            "trait_type": "Core Count",
+            "value": "6"
+        },
+        {
+            "trait_type": "Wattage",
+            "value": "105"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "C"
+        }
+    ]
+    
+
+}

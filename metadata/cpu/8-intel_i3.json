@@ -1,0 +1,25 @@
+{
+    "description": "4 Core Processor",
+    "name": "intel_i3",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "Clock Speed",
+            "value": "2.9"
+        },
+        {
+            "trait_type": "Core Count",
+            "value": "4"
+        },
+        {
+            "trait_type": "Wattage",
+            "value": "90"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "E"
+        }
+    ]
+    
+
+}
